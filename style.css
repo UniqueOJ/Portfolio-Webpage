@@ -62,8 +62,8 @@ a:hover {
 /* Navbar */
 nav {
     font-family: var(--mono);
-    font-size: 80%;
-    padding: 1rem;
+    font-size: 85%;
+    padding: 4rem 1rem;
 }
 
 nav h1 a {
@@ -135,7 +135,7 @@ nav [class*="fa-"]:hover {
 
 #intro .name {
     font-family: var(--mono);
-    font-size: 1rem;
+    font-size: 1.1rem;
 }
 
 .name span {
@@ -168,6 +168,10 @@ nav [class*="fa-"]:hover {
     font-size: 1rem;
     font-family: var(--mono);
     margin: 0;
+}
+
+#projects p {
+    font-size: 1.05rem;
 }
 
 .screenshot-img {
